@@ -1,0 +1,58 @@
+{
+    "fullrgb": {
+        "name": "Full RGB",
+        "desc": "Full rgb strip animation"
+    },
+    "wavergb": {
+        "name": "Fala RGB",
+        "desc": "Wyświetla animację w postaci całej gamy RGB rozciągniętej po pasku. Animacja generuję falę."
+    },
+    "bdotrgb": {
+        "name": "Odbijające się kropki RGB",
+        "desc": "Wyświetla animację odbijającej się kopki (lub kropek) zmieniających kolor z każdym odbiciem."
+    },
+    "bdotrgb2": {
+        "name": "Odbijające się kropki RGB v2",
+        "desc": "Wyświetla animację odbijającej się kopki (lub kropek) zmieniających kolor z każdym przeskokiem."
+    },
+    "bdotrgb3": {
+        "name": "Odbijające się kropki RGB v3",
+        "desc": "Wyświetla animację odbijającej się kopki (lub kropek) zmieniających kolor z każdym przeskokiem pozostawiając za sobą aktualny kolor."
+    },
+    "cdotrgb": {
+        "name": "Krążące kropki RGB",
+        "desc": "Wyświetla animację krążącej kopki (lub kropek) zmieniających kolor z każdym przejściem do początku."
+    },
+    "cdotrgb2": {
+        "name": "Krążące kropki RGB v2",
+        "desc": "Wyświetla animację krążącej kopki (lub kropek) zmieniających kolor z każdym przeskokiem."
+    },
+    "cdotrgb3": {
+        "name": "Krążące kropki RGB v3",
+        "desc": "Wyświetla animację krążącej kopki (lub kropek) zmieniających kolor z każdym przeskokiem pozostawiając za sobą aktualny kolor."
+    },
+    "twopac": {
+        "name": "2pac",
+        "desc": "Animacja mająca na celu przypominać paski po bokach na filmie tu: https://www.youtube.com/watch?v=uJE8pfPfVRo&ab_channel=2PacMusic"
+    },
+    "twopacrgb": {
+        "name": "2pacrgb",
+        "desc": "Animacja mająca na celu przypominać paski po bokach na filmie tu: https://www.youtube.com/watch?v=uJE8pfPfVRo&ab_channel=2PacMusic z automatyczną zmianą kolorów"
+    },
+    "manual": {
+        "name": "Tryb Manualny",
+        "desc": "Manualna zmiana kolorów paska"
+    },
+    "flash": {
+        "name": "Flash",
+        "desc": "Mrugający wybrany kolor (UWAGA, przed uruchomieniem zwiększyć interwał)"
+    },
+    "flashrgb": {
+        "name": "Flash RGB",
+        "desc": "Mrugający, zmieniający się kolor (UWAGA, przed uruchomieniem zwiększyć interwał)"
+    },
+    "police": {
+        "name": "Policja",
+        "desc": "Światła policyjne (UWAGA, przed uruchomieniem zwiększyć interwał)"
+    }
+}

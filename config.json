@@ -1,0 +1,7 @@
+{
+    "port": 4050,
+    "name": "Gaming Room",
+    "leds": 168,
+    "gpio": 18,
+    "hardware_brightness": 256
+}
